@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @marianabeldi
-- 👀 I’m interested in illustration, SVG, art, and branding
-- 🌱 I’m currently learning Vue, Nuxt
+- 👀 I’m interested in illustration, SVG, design, and communication
+- 🍳 I’m currently cooking holasvg.com
+- 🌱 I’m learning Vue, Nuxt
 - 💞️ I’m looking to collaborate on open source community
 - 📫 How to reach me info@holabelda.com
 
