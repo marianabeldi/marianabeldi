@@ -3,4 +3,4 @@
 - 🍳 I’m currently cooking avatars.holasvg.com
 - 🌱 I’m learning Vue, Nuxt, Gsap
 - 💞️ I’m looking to collaborate on open source community
-- 📫 How to reach me https://x.com/marianabeldi
+- 📫 How to reach me [https://x.com/marianabeldi](https://bsky.app/profile/holasvg.com)
